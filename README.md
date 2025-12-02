@@ -260,14 +260,13 @@ Through this project, I strengthened expertise in:
 <div align="center">
 
 ### Salary Distribution Across Experience Levels
-![Salary Analysis](Visualizations/salary_distribution.png)
+![Salary Analysis](Visualizations/Salary_Distribution_by_Experience_Level.png)
 
 ### Top In-Demand AI/ML Skills
-![Skills Demand](Visualizations/top_skills_demand.png)
+![Job Postings by Experience Level]([Visualizations/top_skills_demand.png](https://github.com/mayank-goyal09/AI-ML-Job-Pulse/blob/2c46caae0f99a90c8ac299178c12889b2802c3ba/Visualizations/Job%20Postings%20by%20Experience%20Level.png))
 
 ### Geographic Job Market Hotspots
-![Geographic Trends](Visualizations/geographical_trends.png)
-
+![Geographic Trends][[(Visualizations/geographical_trends.png](https://github.com/mayank-goyal09/AI-ML-Job-Pulse/blob/2c46caae0f99a90c8ac299178c12889b2802c3ba/Visualizations/Top%2010%20Countries%20for%20A%26ML%20Jobs.png)]
 👉 **[Explore All Visualizations](Visualizations/)**
 
 </div>
@@ -286,12 +285,6 @@ Through this project, I strengthened expertise in:
 *Data Analyst | ML Enthusiast | Python Developer | Turning Raw Data into Actionable Insights*
 
 </div>
-
----
-
-## 📄 **License**
-
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
 
 ---
 
