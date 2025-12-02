@@ -255,18 +255,34 @@ Through this project, I strengthened expertise in:
 
 ---
 
-## 📸 **Sample Visualizations**
+## 📏 **Sample Visualizations**
 
 <div align="center">
 
-### Salary Distribution Across Experience Levels
-![Salary Analysis](Visualizations/Salary_Distribution_by_Experience_Level.png)
+### Top In-Demand AI/ML Skills (2024)
+![Top In-Demand Skills](Visualizations/Top%2020%20Most%20In-Demand%20A%26ML%20Skills.png)
 
-### Top In-Demand AI/ML Skills
-![Job Postings by Experience Level]([Visualizations/top_skills_demand.png](https://github.com/mayank-goyal09/AI-ML-Job-Pulse/blob/2c46caae0f99a90c8ac299178c12889b2802c3ba/Visualizations/Job%20Postings%20by%20Experience%20Level.png))
+### Salary Distribution by Experience Level
+![Salary Distribution](Visualizations/Salary%20Distribution%20by%20Experience%20Level.png)
 
-### Geographic Job Market Hotspots
-![Geographic Trends][[(Visualizations/geographical_trends.png](https://github.com/mayank-goyal09/AI-ML-Job-Pulse/blob/2c46caae0f99a90c8ac299178c12889b2802c3ba/Visualizations/Top%2010%20Countries%20for%20A%26ML%20Jobs.png)]
+### Job Market by Experience Level
+![Job Postings](Visualizations/Job%20Postings%20by%20Experience%20Level.png)
+
+### Geographic Hotspots - Top Countries
+![Geographic Trends](Visualizations/Top%2010%20Countries%20for%20A%26ML%20Jobs.png)
+
+### Average AI/ML Salary Trends
+![Salary Trends](Visualizations/Average%20AI%20Salary%20Trend%20Over%20Time.png)
+
+### Remote vs Office vs Hybrid Work Models
+![Work Models](Visualizations/Work%20Models.png)
+
+### Skill Velocity - Fastest Growing Skills
+![Skill Velocity](Visualizations/Skill%20Velocity.png)
+
+👉 **[View All Visualizations](Visualizations/)** | **[Main Analysis Notebook](main.ipynb)**
+
+</div>![Geographic Trends][[(Visualizations/geographical_trends.png](https://github.com/mayank-goyal09/AI-ML-Job-Pulse/blob/2c46caae0f99a90c8ac299178c12889b2802c3ba/Visualizations/Top%2010%20Countries%20for%20A%26ML%20Jobs.png)]
 👉 **[Explore All Visualizations](Visualizations/)**
 
 </div>
